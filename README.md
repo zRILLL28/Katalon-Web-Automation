@@ -75,14 +75,7 @@ Profiles/
 * Delete Product from Cart
 * View Cart
 
-```````````````````
-### 💳 Checkout
 
-* Proceed to Checkout
-* Complete Order Flow
-
----
-```````````````````
 ## 🧪 Test Suites
 
 ### 🟢 TS_Smoke_Test
@@ -122,7 +115,7 @@ Execution reports are automatically generated after test execution.
 ## 📊 Test Report
 
 #### 1. Result Test Case
-![Test Case](Screenshots/Test_Case.png)
+![Test Case](Screenshots/TestCase.png)
 
 #### 2. Result Smoke Test
 ![Test Case](Screenshots/SmokeTest.png)

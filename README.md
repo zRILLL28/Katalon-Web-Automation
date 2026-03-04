@@ -126,6 +126,12 @@ Execution reports are automatically generated after test execution.
 #### 3. Result Regression Test
 ![Test Case](Screenshots/RegressionTest.png)
 
+#### 4. Sidebar Test Case
+![Test Case](Screenshots/SideBar_Test_Case.png)
+
+#### 5. Sidebar Object
+![Test Case](Screenshots/SideBar_Object.png)
+
 
 Screenshots of execution and reports are available in the Screenshots/ folder.
 

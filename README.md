@@ -45,7 +45,7 @@ Test Cases/
  ├── TC_View_Category_Products
  ├── TC_View_Brand_Products
  ├── TC_Register
- ├── Page_ContactUs
+ ├── TC_ContactUs
  ├── TC_Logout
 
 Test Suites/

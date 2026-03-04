@@ -10,7 +10,7 @@ This project contains automated test scripts created using **Katalon Studio** to
 
 🔗 https://automationexercise.com/
 
-The automation covers multiple core features such as authentication, product interaction, cart management, and checkout process.
+The automation covers multiple core features such as authentication, product interaction, and cart management.
 
 ---
 
@@ -93,7 +93,6 @@ Covers full end-to-end testing scenarios including:
 * Authentication
 * Product interaction
 * Cart management
-* Checkout process
 
 ---
 

@@ -23,7 +23,7 @@ The automation covers multiple core features such as authentication, product int
 * Global Variables (Profiles)
 
 ---
-
+`````````````````````````````````````````
 ## 📂 Project Structure
 
 Object Repository/
@@ -55,7 +55,7 @@ Test Suites/
 Profiles/
  ├── default (Global Variables: BaseURL, Email, Password)
 
-
+`````````````````````````````````````````````````````````````
 ---
 
 ## ✅ Test Coverage
@@ -122,7 +122,7 @@ Execution reports are automatically generated after test execution.
 ## 📊 Test Report
 
 #### 1. Result Test Case
-![Test Case](Screenshots/TestCase.png)
+![Test Case](Screenshots/Test_Case.png)
 
 #### 2. Result Smoke Test
 ![Test Case](Screenshots/SmokeTest.png)
@@ -130,9 +130,6 @@ Execution reports are automatically generated after test execution.
 #### 3. Result Regression Test
 ![Test Case](Screenshots/Regression.png)
 
-```
-Reports/
-```
 
 Screenshots of execution and reports are available in the Screenshots/ folder.
 

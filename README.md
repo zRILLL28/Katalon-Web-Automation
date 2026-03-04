@@ -111,8 +111,12 @@ Execution reports are automatically generated after test execution.
 
 ---
 
-## 📊 Test Report
+## 📊 Screenshots for Result & etc
 
+<details>
+ <summary><b>📷 Click to view Test Screenshots</b></summary>
+  <br>
+ 
 #### 1. Result Test Case
 ![Test Case](Screenshots/TestCase.png)
 
@@ -125,6 +129,7 @@ Execution reports are automatically generated after test execution.
 
 Screenshots of execution and reports are available in the Screenshots/ folder.
 
+</details>
 ---
 
 ## 🎯 Key Highlights

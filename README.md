@@ -121,7 +121,7 @@ Execution reports are automatically generated after test execution.
 ![Test Case](Screenshots/SmokeTest.png)
 
 #### 3. Result Regression Test
-![Test Case](Screenshots/Regression.png)
+![Test Case](Screenshots/RegressionTest.png)
 
 
 Screenshots of execution and reports are available in the Screenshots/ folder.

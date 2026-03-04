@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_View_Category_Products</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b53bd91b-2cd1-41b0-a188-4c4b571008f6</testCaseGuid>
+</TestCaseEntity>
